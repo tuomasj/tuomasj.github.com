@@ -1,0 +1,122 @@
+/*
+html,body
+
+#container
+#header
+#logo
+#about
+#footer
+#footer a
+#content
+
+#content h1,h2
+#content ul li
+#content p
+#content a
+#content p.lastnote
+*/
+#container {
+	font-family: "Helvetica Neue", "Arial", sans-serif;
+	margin: 0 auto;
+	width: 45em;
+}
+#header, #footer {
+	background-color: #069;
+	float: left;
+	width: 100%;
+}
+
+#header {
+	border-bottom: 0.2em solid #036;
+}
+#header #logo {
+	font-family: "HattoriHanzoLight";
+	font-size: 250%;
+	margin-top: 1.5em;
+	padding-left: 0.5em;
+	color: #efefef;
+	float: left;
+}
+#header #logo a {
+	color: #efefef;
+	text-decoration: none;
+	width: 15em;
+}
+#header #about {
+	width: 15em;
+	text-align: right;
+	float: right;
+	margin-right: 2em;
+	margin-top: 1em;
+	font-size: 75%;
+	color: #efefef;
+	font-family: "UbuntuLight";
+	text-decoration: italic;
+}
+#content, #posts {
+	font-family: sans-serif;
+	line-height: 1.45em;
+	clear: both;
+    font-weight: normal;
+}
+#content h1,h2,h3 {
+	font-family: "HattoriHanzoLight";
+	padding: 1em 0;
+	line-height: 1.2em;
+}
+h1 {
+	font-size: 180%;
+}
+h2 {
+	font-size: 140%;
+}
+h2 a {
+	font-weight: bold;
+	color: #f3f3f3;
+}
+#content p {
+	margin-bottom: 1em;
+	margin-left: 1em;
+	text-align: justify;
+}
+#content em {
+	font-style: italic;
+}
+#content strong {
+    font-weight: bold;
+}
+#content ul {
+	list-style: disc;
+	margin-left: 2.0em;
+	margin-bottom: 1em;
+}
+#content ul li {
+	margin-bottom: 0.2em;
+}
+#posts {
+	padding-top: 2em;
+	list-style: none;
+}
+#posts li {
+	margin-bottom: 1.2em;
+	margin-left: 2em;
+	float: left;
+	width: 100%;
+}
+#posts li a {
+	display: block;
+	width: 35em;
+	margin-left: 0.5em;
+	float: left;
+	color: #333;
+}
+#posts li a:hover {
+	color: #09f;
+}
+#posts li span {
+	float: left;
+}
+.lastnote {
+	font-style: italic;
+	color: #666;
+}
