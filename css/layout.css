@@ -93,6 +93,14 @@ h2 a {
 #content ul li {
 	margin-bottom: 0.2em;
 }
+#content pre {
+	background-color: #e3e3e3;
+	margin-left: 3em;
+	margin-right: 3em;
+	font-family: monospace;
+	padding: 0.5em;
+	margin-bottom: 1em;
+}
 #posts {
 	padding-top: 2em;
 	list-style: none;
