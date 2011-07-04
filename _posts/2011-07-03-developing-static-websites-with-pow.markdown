@@ -8,7 +8,7 @@ This blog post describes a way to use Pow web server to host your static website
 
 ## Pow!! ##
 
-[Pow](http://pow.cx) is a zero Rack server for Mac OS X. Rack is a small software component written in Ruby. It is used to develop web servers, for example Ruby on Rails. Pow was developed by [Sam Stephenson](http://twitter.com/#!/sstephenson) from [37Signals](http://www.37signals.com) and you can follow the development at [Pow Github repository](https://github.com/37signals/pow).
+[Pow](http://pow.cx) is a zero configuration Rack server for Mac OS X. Rack is a small software component written in Ruby. It is used to develop web servers, for example Ruby on Rails. Pow was developed by [Sam Stephenson](http://twitter.com/#!/sstephenson) from [37Signals](http://www.37signals.com) and you can follow the development at [Pow Github repository](https://github.com/37signals/pow).
 
 Since you are running Mac OS X, you already have Apache web server. There is nothing wrong with Apache, but if you feel like trying something new, try Pow. You might like it :)
 
