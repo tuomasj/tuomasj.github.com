@@ -130,5 +130,8 @@ h2 a {
 }
 
 #twitter {
-	margin-bottom: 12px;
+	width: 100px;
+	float: right;
+	margin-right: 2em;
+	margin-bottom: 10px;
 }
