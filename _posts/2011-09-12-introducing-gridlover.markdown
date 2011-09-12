@@ -2,7 +2,7 @@
 layout: post
 title: Introducing Gridlover
 ---
-Web is 85% typography. Thats why we built [Gridlover](http://www.gridlover.net). It is a web app to building a vertical rhythm for your web typography. It has interactive sliders and will spit ready-made CSS for you. Go try it out!
+Web is 85% typography. That's why we built [Gridlover](http://www.gridlover.net). It is a web app to building a vertical rhythm for your web typography. It has interactive sliders and will spit ready-made CSS for you. Go try it out!
 
 ### Screenshot of Gridlover ###
 
@@ -10,9 +10,9 @@ Web is 85% typography. Thats why we built [Gridlover](http://www.gridlover.net).
 
 ## Background for Gridlover ##
 
-I practice continuos learning. I cannot help it, it's built inside me. I like learning new stuff because it's fun. About a 5-6 months ago I got interested in typography. I have always liked design and I have understood some aspects of typography, but I had really limited understanding about the insights of typography. 
+I practice continous learning. I cannot help it, it's built inside me. I like learning new stuff because it's fun. About a 5-6 months ago I got interested in typography. I have always liked design and I have understood some aspects of typography, but I had really limited understanding about the insights of typography. 
 
-One day I set my sight on web typography. That was something I liked to know more. How do you learn? I do it by asking questions. A lot of them. Naturally it involves a great deal of searching the web and consuming content. [Ville](http://www.pumpula.net) was the prime target for my questions, he answered my questions about web typography and pointed me to right directions. One concept that stuck in my head after one typography related question-bombing was vertical rhythm. Ville explained the idea and pointed me to A List Apart article. I read it and understood it, but I still lacked something concrete, something visual so I could see it properly.
+One day I set my sight on web typography. That was something I liked to know more. How do you learn? I do it by asking questions. A lot of them. Naturally it involves a great deal of searching the web and consuming content. [Ville](http://www.pumpula.net) was the prime target for my questions, he answered my questions about web typography and pointed me to right directions. One concept that stuck in my head after one typography related question-bombing was vertical rhythm. Ville explained the idea and pointed me to [A List Apart](http://www.alistapart.com/articles/settingtypeontheweb) article. I read it and somewhat understood it, but I still needed something tangible, something visual.
 
 What programmer/hacker does in a situation like this? Yep, you guessed it! I built a small prototype. So instead of learning broad range of information of typography, I took one specific thing and taught that to myself. Sometimes you just have to go with the flow...
 
