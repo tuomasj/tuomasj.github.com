@@ -16,7 +16,11 @@ After few chapters, I got an idea. Instead of listing the blogs every web produc
 
 I think I'm a pretty good product designer. I have learned a lot from Eric Ries and I am big fan of his book. I believe firmly that to build a good web app I need a target audience and a hypothesis. Here is what I came up: 
 	  
-	There are internet users, who are interested about web product design but do not want to use RSS readers for some reason. They might not find content about web product design blogs. They search the web for web product design and find this site. They like the content of Buildcraftcreate.com and regularly come back for more.
+	There are internet users, who are interested about web product design 
+	but do not want to use RSS readers for some reason. They might not find 
+	any content about web product design blogs. They search the web for web 
+	product design and find this site. They like the content of 
+	Buildcraftcreate.com and regularly come back for more.
   
 Over the time, I have tried to sell the idea of RSS readers to lot of people who read blogs. They just don't see the benefit why they should set up a RSS reader. They feel it's easier to read the blogs separately. Some do not even use bookmarks, they just type the address every time they they want to visit the site. So there might be an audience for a web app like this.
 
