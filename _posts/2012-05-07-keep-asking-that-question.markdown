@@ -2,11 +2,11 @@
 title: Keep Asking That Question
 layout: post
 ---
-tl;dr I gave a lecture at University. A female student asked me how to get started on web industry. I gave her a semi-decent advice. To right my wrong, I give three advices on this blog post.
+tl;dr I gave a lecture at University. A female student asked me how to get started on web industry. I gave her a semi-decent advice. To right my wrong, I give three pieces of advice on this blog post.
 
-I was giving a lecture at University of Oulu for first year students about [The Lean Canvas](http://www.leancanvas.com) versus traditional business plans. I couldn't resist the temptation of giving some career advices and I think I gave pretty good advices. They were basic advices, just to give a starting point. Nothing too complex, easy to understand. 
+I was giving a lecture at University of Oulu for first year students about [The Lean Canvas](http://www.leancanvas.com) versus traditional business plans. I couldn't resist the temptation of giving some career advice and I think I gave pretty good one. I kept them short and simple, just to give a starting point. 
 
-After my lecture I had reserved some time for questions and answers. I was hoping to get few questions, nobody wants to end the lecture early, with awkward silence. I got few questions about Lean Canvas and I think I nailed the answers pretty good. Students started asking more general questions about web and software industry. They were easy questions and easy to answer.
+After my lecture I had reserved some time for questions and answers. I was hoping to get few questions, nobody wants to end the lecture early, with the awkward silence. I got few questions about Lean Canvas and I think I nailed the answers pretty good. Students started asking more general questions about web and software industry. They were easy questions and easy to answer.
 
 Then I got the hard one from a female student. Her question went something like: **If you don't know anybody in the industry and you don't know anything about web technologies, how do you get started?**
 
@@ -16,13 +16,13 @@ I gave semi-decent answer by telling how the [world's greatest ski-jumper](http:
 
 To right my wrong, I have given some more thought and here is an proper answer, which does not have anything to do with ski-jumping.
 
-## My Three Advices ##
+## My Three Pieces of Advice ##
 
 ### 1. Keep Asking This Same Question ###
  
 By asking this question for the first time, you take a concrete step on the path of getting into web industry. The first step is always the hardest and now you have done it. Congratulations! :)
 
-When you have the chance, ask this same question from people who seem to be more experienced than you. You wikk most likely get a wide range of answers, everybody has their own way of seeing things and thats a situation where you could learn something. But just don't settle answers on ski-jumping.
+When you have the chance, ask this same question from people who seem to be more experienced than you. You will most likely get a wide range of answers, everybody has their own way of seeing things and thats a situation where you could learn something. But just don't settle answers on ski-jumping.
 
 Eventually, you start getting answers about things you already know. Thats a good sign. 
 
@@ -60,7 +60,7 @@ Luckily, there is a programming language which was designed for programmer produ
 
 ## And Finally, Here Is a Product Idea If You Want to Get Started Right Now ##
 
-Build a blog where you interview web industry veterans. Ask them that same question and write a blog post about the interview and their advices. If you do this, I guarantee you will learn things you cannot possible learn at school and build your network. Also, running a blog is definitely a big plus when you enter your first job interview.
+Build a blog where you interview web industry veterans. Ask them that same question and write a blog post about the interview and their pieces of advice. If you do this, I guarantee you will learn things you cannot possible learn at school and build your network. Also, running a blog is definitely a big plus when you enter your first job interview.
 
 Somebody already has a blog about that? Don't worry. Change your approach. Narrow your scope, interview local industry veterans or write it on your native language. Find an angle that differs you from the rest of the "starting the career" blogs. 
 
