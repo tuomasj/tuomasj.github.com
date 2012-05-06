@@ -1,5 +1,7 @@
-# Keep Asking That Question #
-
+---
+title: Keep Asking That Question
+layout: post
+---
 	tl;dr I gave a lecture at University. A female student asked me how to get started on web industry. I gave her a semi-decent advice. To right my wrong, I give three advices on this blog post.
 
 I was giving a lecture at University of Oulu for first year students about [The Lean Canvas](http://www.leancanvas.com) versus traditional business plans. I couldn't resist the temptation of giving some career advices and I think I gave pretty good advices. They were basic advices, just to give a starting point. Nothing too complex, easy to understand. 
