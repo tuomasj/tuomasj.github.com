@@ -1,0 +1,117 @@
+
+body {
+    //font-size: 1.2rem;
+    //line-height: 2.208rem;
+	font-size: 20px;
+	line-height: 32px;
+	font-family: 'Helvetica', sans-serif;
+	color: #555;
+}
+a {
+	color: red;
+	text-decoration: none;
+}
+p, ul {
+    margin-top: 0;
+    margin-bottom: 32px;
+}
+h1,h2,h3,h4,h5 {
+	font-weight: bold;
+}
+header h1 {
+	font-size: 64px;
+}
+article header h1 {
+	font-size: 64px;
+	line-height: 64px;
+	margin-bottom: 32px;
+}
+article section h2 {
+	font-size: 48px;
+	margin-bottom: 16px;
+	line-height: 64px;
+}
+article section h3 {
+	font-size: 32px;
+	line-height: 32px;
+	margin-bottom: 32px;
+}
+article section h4 {
+	font-size: 24px;
+	line-height: 32px;
+	margin-bottom: 16px;
+}
+small, aside {
+    font-size: 0.742rem;
+	font-weight: normal;
+}
+#container {
+	max-width: 1024px;
+	margin: 0 auto;
+}
+#about {
+	float: left;
+	font-family: Helvetica;
+	margin-bottom: 1em;
+	margin-right: 1em;
+}
+#about h2, small {
+	font-family: inherit;
+}
+#posts {
+}
+#posts ul li span {
+	width: 8em;
+	float: left;
+	text-align: right;
+	margin-right: 0.5em;
+}
+#posts ul li {
+	clear: both;
+}
+hr {
+	clear: both;
+	border: 1px solid #ccc;
+}
+pre {
+	line-height: 1em;
+}
+code {
+	font-family: monospace;
+	line-height: 1em;
+	background-color: #ddd;
+	padding: 0.5em;
+	display: block;
+	margin-bottom: 16px;
+}
+#twitter {
+	float: left;
+}
+#container header h1 a {
+	color: #999;
+	text-decoration: none;
+	margin:0;
+	padding:0;
+}
+#container header h1 {
+	margin:0;
+	padding:0;
+	line-height: 64px;
+	margin-top: 32px;
+}
+#container #about h2 a {
+	color: #aaa;
+	text-decoration: none;
+	font-weight: bold;
+	margin:0;
+	padding:0;
+}
+#container #about h2 {
+	margin:0;
+	padding:0;
+	font-size: 16px;
+	line-height: 32px;
+	font-weight: normal;
+	color: #999;
+}
+
