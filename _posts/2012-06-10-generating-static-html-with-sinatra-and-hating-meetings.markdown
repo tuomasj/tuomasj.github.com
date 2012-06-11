@@ -15,7 +15,7 @@ If you don't want to read the backstory, jump to part about [generating HTML wit
 
 ## Meetings, Meetings, Stop Wasting My Time ##
 
-I've always considered meetings a waste of time. Yes, you can get things done, but usually there are just too many participants, the meeting lacks a clear agenda, and just when the meeting is about to get into the point, time runs out and everybody scatters. We all know this, and still running a useful meeting is really hard.
+I've always considered too many meetings are waste of time. Yes, you can get things done, but usually there are just too many participants, the meeting lacks a clear agenda, and just when the meeting is about to get into the point, time runs out and everybody scatters. Running a useful meeting is really hard.
 
 So I did what any hacker would do: I created an app that would fix the meetings.
 
