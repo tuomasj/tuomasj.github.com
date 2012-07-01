@@ -4,8 +4,8 @@ layout: rss-feed
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
 	<channel>
-		<title>{{ site.name }}</title>
-		<description>{{ site.description }}</description>
+		<title>Rebelcode.net</title>
+		<description>Random ramblings about code, design and life</description>
 		<link>{{ site.url }}</link>
 		{% for post in site.posts limit:20 %}
 			<item>

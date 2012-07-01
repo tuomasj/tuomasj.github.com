@@ -4,13 +4,13 @@ layout: nil
 <?xml version="1.0"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
  
-  <title>{{ site.name }}</title>
+  <title>Rebelcode.net</title>
   <link href="{{ site.url }}"/>
   <link type="application/atom+xml" rel="self" href="http://rebelcode.net/atom.xml"/>
   <updated>{{ site.time | date_to_xmlschema }}</updated>
-  <id>{{ site.name }}</id>
+  <id>Rebelcode.net</id>
   <author>
-    <name>{{ site.author }}</name>
+    <name>Tuomas Jomppanen</name>
     <email>rebelcode@gmail.com/</email>
   </author>
 
