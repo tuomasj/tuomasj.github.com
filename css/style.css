@@ -85,7 +85,9 @@ body {
 .content h1 {
 	font-size: 2em;
 	line-height: 1em;
-	margin-bottom: 1em;
+	
+	padding-top: 0.25em;
+	margin-bottom: 0.5em;
 }
 .content h2 {
 	margin-top: 1em;
@@ -93,6 +95,7 @@ body {
 	line-height: 2em;
 }
 .content p {
+	
 	font-size: 1em;
 	line-height: 1.5em;
 	margin-bottom: 1em;
@@ -102,4 +105,24 @@ body {
 	padding: 1em 1em;
 	margin: 0 1em;
 	line-height: 1em;
+}
+
+footer .description {
+	padding: 14px 0;
+	border-top: 1px solid #999;
+	font-size: 16px;
+	color: #999;
+	-webkit-transition: color 1s ease;
+	-moz-transition: color 1s ease;
+	-ms-transition: color 1s ease;
+	-o-transition: color 1s ease;
+	transition: color 1s ease;
+	line-height: 22px;
+}
+
+footer .description a {
+	color: inherit;
+}
+footer .description:hover {
+	color: #333;
 }
