@@ -31,6 +31,10 @@ blogs to it, I never improved the user interface. I neglected it because I did n
 useful. Based on the original blog post, looks like it's been running on autopilot since December 2011.
 
 And now I have improved it, I made it simpler. I took out everything, left only the essentials.
-Now I have a good feeling about it, I think it might be part of my morning routines from now on.
+I definitely need to add more blogs to it, because I want new content every morning.
+But I can live with it for now. I have a good feeling about it,
+I think it might be part of my morning routines from now on.
 
 Go check it out, [Build Craft Create](http://buildcraftcreate.com) might become a part of your morning routine as well.
+
+
