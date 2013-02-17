@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Why Launching a Niche Site Feels Kinda Weird?
+tags:
+  - sideproject2013
 ---
 (Week 3)
 

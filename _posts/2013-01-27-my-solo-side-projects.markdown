@@ -1,6 +1,8 @@
 ---
 layout: post
 title: My Solo Side Projects
+tags:
+  - sideproject2013
 ---
 (Week 4)
 

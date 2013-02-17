@@ -1,6 +1,8 @@
 ---
 layout: post
 title: Four Types of Income Generating Web Apps
+tags:
+  - sideproject2013
 ---
 (Week 2)
 

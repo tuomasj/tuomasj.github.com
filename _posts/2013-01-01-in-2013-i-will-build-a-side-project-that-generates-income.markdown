@@ -1,11 +1,22 @@
 ---
 layout: post
 title: In 2013, I Will Build a Side Project that Generates Income
+tags:
+  - sideproject2013
 ---
 This is my only New Year's resolution.
 I will build a side project that generates monthly recurring income.
 I try to write blog posts each week describing how I am doing and what I have learned.
 
+<div class="sideprojects-list">
+  <h2>Here Are My Blog Posts So Far</h2>
+  <hr>
+  <ul>
+{% for item in site.tags.sideproject2013 %}
+  <li><small>{{ item.date || date_to_string }}</small><a href="{{ item.url }}">{{ item.title }}</a></li>
+{% endfor %}
+</ul>
+</div>
 ## What I Really Want to Learn is Internet Marketing ##
 
 I have been programming since I was a kid. I have done web development since late 90's. I have all technical skills to build a web product.

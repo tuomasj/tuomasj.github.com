@@ -1,6 +1,8 @@
 ---
 title: Build Craft Create - Relaunching My Old Side Project
 layout: post
+tags:
+  - sideproject2013
 ---
 (week 6)
 

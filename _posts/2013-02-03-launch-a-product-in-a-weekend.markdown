@@ -1,6 +1,8 @@
 ---
 title: Launching a Software Product in a Weekend
 layout: post
+tags:
+  - sideproject2013
 ---
 
 (Week 5)
