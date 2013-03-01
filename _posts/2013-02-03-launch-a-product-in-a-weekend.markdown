@@ -1,6 +1,7 @@
 ---
 title: Launching a Software Product in a Weekend
 layout: post
+description: Last weekend five guys rented a cabin from a tourist farm and spent whole weekend hidden in a cabin in the woods and building a product.
 tags:
   - sideproject2013
 ---

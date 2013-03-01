@@ -13,15 +13,15 @@ I have this feeling, that niche sites are a bit frown upon. We all have experien
 
 Luckily, not every niche website is filled with annoying banners. There are sites that provide real value and useful content for visitors. Niche website is a very loose term, I think there are various perspectives, but to me, the most visible thing on a niche site is that they make money by internet advertising and affiliate marketing.
 
-### Stealing attention by interrupting is not cool ###
+### Stealing Attention by Interrupting Is Not Cool ###
 
-I welcomed browser adblockers with open arms when the first ones appears.
+I welcomed browser adblockers with open arms when the first ones appeared years ago.
 One of my first things to do, when setting up a new computer, is to install an adblocker to a browser.
 
 I guess it's safe to say I am not big fan of internet advertising.
 Most ads try to interrupt you and steal your attention. We, as internet dwelling people, have come up a very certain behaviour to make banner advertisement quite useless. It's called [Banner Blindness](http://en.wikipedia.org/wiki/Banner_blindness).
 
-### Learning starts now ###
+### Learning Internet Marketing Starts Now ###
 
 Even though I don't like it when I'm on the receiving end of internet marketing, I want to learn internet marketing.
 There must be a way that best of both worlds meet.
@@ -33,7 +33,7 @@ I will be using Google Adsense to put some advertisement on the site. Hopefully 
 
 The good thing about that is that the ads will be targeted to the visitor, so ads will share the story with the content. The bad thing is that they are banners.
 
-### Finding an audience ###
+### Finding an Audience ###
 
 A targeted visitor will give attention to a website more likely that just a random visitor.
 I have lots of knowlegde how to reach the target audience. The problem is, that I haven't done it before.
@@ -44,7 +44,7 @@ It does not need my attention on every week. It just sits on a corner of the web
 
 In theory, it means that I don't have to tinker with the source code every week and I'm free to focus on the marketing activities.
 
-### Why I'm still feeling kinda weird about it? ###
+### Why I'm Still Feeling Kinda Weird About It? ###
 
 I'm a hacker by heart. I did not just write a static website. By using Sinatra and Markdown, I have built a layout system which generates all the files for the website. I am hosting it on Amazon S3 and using their DNS services. So it has some technical stuff behind the scenes.
 

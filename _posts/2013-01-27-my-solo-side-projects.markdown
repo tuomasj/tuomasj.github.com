@@ -1,6 +1,7 @@
 ---
 layout: post
 title: My Solo Side Projects
+description: Over past few years, I've actually built solo side projects. They have been just for fun projects, built usually in one or couple of days. Here are my launched solo side projects.
 tags:
   - sideproject2013
 ---

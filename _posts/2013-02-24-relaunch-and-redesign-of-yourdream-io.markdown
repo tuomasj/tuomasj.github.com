@@ -1,9 +1,12 @@
 ---
 title: Redesign and Relaunch of Yourdream.io
 layout: post
+description: Paying the technical debt by rewriting my savings calculator app, yourdream.io
 tags:
   - sideproject2013
 ---
+(week 7-8)
+
 Past few weeks I have been improving my savings calculator, [yourdream.io](http://www.yourdream.io).
 I was not very happy with it, it had some rough edges and the code was not that structured. That is quite
 surprising,  since I used [backbone.js](http://documentcloud.github.com/backbone/) to structure my code.

@@ -1,6 +1,7 @@
 ---
 title: Build Craft Create - Relaunching My Old Side Project
 layout: post
+description: My goal was to build something that I could use everyday, My Morning Dose of Information on Web and Mobile Product Design
 tags:
   - sideproject2013
 ---

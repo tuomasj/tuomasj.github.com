@@ -1,6 +1,7 @@
 ---
 layout: post
 title: In 2013, I Will Build a Side Project that Generates Income
+description: I will build a side project that generates monthly recurring income. I try to write blog posts each week describing how I am doing and what I have learned.
 tags:
   - sideproject2013
 ---
