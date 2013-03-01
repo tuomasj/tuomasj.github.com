@@ -1,15 +1,20 @@
- 1 <?xml version="1.0" encoding="UTF-8"?>
- 2 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
- 3     <url>
- 4         <loc>http://rebelcode.net/</loc>
- 5         <changefreq>daily</changefreq>
- 6         <priority>1</priority>
- 7     </url>
- 8     {% for page in site.posts %}
- 9     <url>
-10         <loc>http://rebelcode.net{{ page.url }}</loc>
-11         <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
-12         <changefreq>monthly</changefreq>
-13     </url>
-14     {% endfor %}
-15 </urlset>
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+  <loc>http://rebelcode.net/about</loc>
+  <changefreq>daily</changefreq>
+  <priority>1</priority>
+</url>
+<url>
+  <loc>http://rebelcode.net/</loc>
+  <changefreq>daily</changefreq>
+  <priority>1</priority>
+</url>
+{% for page in site.posts %}
+  <url>
+  <loc>http://rebelcode.net{{ page.url }}</loc>
+  <lastmod>{{ page.date | date: "%Y-%m-%d" }}</lastmod>
+  <changefreq>monthly</changefreq>
+</url>
+{% endfor %}
+</urlset>
