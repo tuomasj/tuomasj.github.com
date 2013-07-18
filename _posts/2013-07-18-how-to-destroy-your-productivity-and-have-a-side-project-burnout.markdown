@@ -2,7 +2,7 @@
 
 I made a new year resolution to build a side project that generates revenue. My plan was to blog about it every week and write heroic stories about my progress. 
  
-I have very limited hours to spend on my side projects per week due to the fact I have a day job which is the best job I have ever had. I like building digital stuff so much, that I have mana left to spend on my own projects. But since I already work with software products and projects at my day job, my hobby projects need to be fun. If they start causing me any pain, what's the point having a hobby?
+I have very limited hours to spend on my side projects per week due to the fact I have a day job which is the best job I have ever had. I like building digital stuff so much, that I have mana left after work to spend on my own projects. But since I already work with software products and projects at my day job, my hobby projects need to be fun. If they start causing me any pain, what's the point having a hobby related so close to my day job?
 
 I need to spend my scarce hours on tasks that help me reach my goal. I cannot work hard, so I need to work smart. I want to maximize my productivity through positivity. There is no room for negativity.
 
